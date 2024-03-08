@@ -1,2 +1,0 @@
-# JaruratCare
-For interview
